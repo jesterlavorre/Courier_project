@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="rs.etf.sab.student">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/rs.etf.sab.student.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
